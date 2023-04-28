@@ -4,7 +4,7 @@ inquirer
   .prompt([
     /* Pass your questions in here */
     {
-      inputt : 'input',
+      input : 'input',
       name : 'input_type',
       message : 'What is your name?',
       default : 'Ellen'
